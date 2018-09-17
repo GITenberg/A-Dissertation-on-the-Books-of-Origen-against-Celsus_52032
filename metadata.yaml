@@ -1,0 +1,28 @@
+_repo: A-Dissertation-on-the-Books-of-Origen-against-Celsus_52032
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cunningham, Francis
+    birthdate: 1785
+    deathdate: 1863
+    gutenberg_agent_id: '39861'
+    url: http://www.gutenberg.org/2009/agents/39861
+description: ''
+gutenberg_issued: '2016-05-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52032'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Celsus (Platonic philosopher), active 180. Alethes logos'
+- !lcsh 'Apologetics'
+- !lcc 'BR'
+- !lcsh 'Celsus (Platonic philosopher), active 180'
+- !lcsh 'Origen. Contra Celsum'
+- !lcsh 'Christianity'
+- GITenberg
+title: A Dissertation on the Books of Origen against Celsus
+url: http://www.gutenberg.org/ebooks/52032
